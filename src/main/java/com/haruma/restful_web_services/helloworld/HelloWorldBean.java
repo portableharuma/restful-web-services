@@ -18,5 +18,4 @@ public class HelloWorldBean {
     public String toString() {
         return "HelloWorldBean [mesage=" + message + "]";
     }
-
 }
